@@ -33,7 +33,7 @@ vlan-lab-santander-devops/
 └── vlan-lab.pkt
 
 🎬 Demonstração
-📺 Vídeo completo do laboratório: Assistir no YouTube
+📺 Vídeo completo do laboratório: [Assistir no YouTube](https://www.youtube.com/watch?v=vZcc4f3Smz0)
 
 👥 Contribuições
 Este projeto foi desenvolvido como parte do programa Santander Imersão Digital - Trilha DevOps em parceria com Alura e FIAP.
