@@ -21,4 +21,22 @@ Implementação prática de uma rede segmentada com VLANs utilizando Cisco Packe
 - DHCP Server
 - Subinterfaces
 
+## 📁 Estrutura do Projeto
+vlan-lab-santander-devops/
+├── README.md
+├── configs/
+│ ├── router-2811-config.txt
+│ └── switch-2950-config.txt
+├── diagrams/
+│ └── topology-diagram.png
+└── packet-tracer/
+└── vlan-lab.pkt
 
+🎬 Demonstração
+📺 Vídeo completo do laboratório: Assistir no YouTube
+
+👥 Contribuições
+Este projeto foi desenvolvido como parte do programa Santander Imersão Digital - Trilha DevOps em parceria com Alura e FIAP.
+
+📄 Licença
+Este projeto é para fins educacionais.
