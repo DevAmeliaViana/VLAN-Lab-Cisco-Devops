@@ -16,6 +16,7 @@ Implementação prática de uma rede segmentada com VLANs usando Cisco Packet Tr
 
 ## 📁 Topologia da Rede
 +--------------------------------------------------+
+
 | Roteador Cisco 2811 |
 | Interface: FastEthernet0/0 |
 | Subinterfaces: .10, .20, .30 |
@@ -31,6 +32,23 @@ Implementação prática de uma rede segmentada com VLANs usando Cisco Packet Tr
 (RH) (Engenharia) (Financeiro)
 Portas 1-5 Portas 6-10 Portas 11-15
 
+## 📦 Arquivos do Projeto
+
+| Arquivo | Descrição | Link |
+|---------|-----------|------|
+| `Configuraçao_Vlan_Dot1Q.pkt` | Topologia completa do laboratório | [Baixar](Configuraçao_Vlan_Dot1Q.pkt) |
+| `README.md` | Documentação completa do projeto | [Ver](README.md) |
+
+## 🚀 Como Usar o Arquivo .pkt
+
+1. **Baixe o arquivo** `Configuraçao_Vlan_Dot1Q.pkt`
+2. **Abra no Cisco Packet Tracer** (versão 7.0 ou superior)
+3. **A topologia já estará montada** com:
+   - Switch 2950-24 configurado
+   - Roteador 2811 com subinterfaces
+   - VLANs definidas
+   - Servidores DHCP configurados
+   - 
 ## 🛠️ Configurações Completas
 
 ### 📍 Configuração do Roteador 2811
