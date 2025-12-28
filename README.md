@@ -199,7 +199,8 @@ Aplique as configurações acima
 Execute os testes de validação
 
 📚 Contexto Educacional
-Este laboratório foi desenvolvido como parte do programa Santander Imersão Digital - Trilha DevOps, em parceria com Alura e FIAP, sob orientação da professora Olivia Ramos Braga.
+Este laboratório foi desenvolvido como parte do programa Santander Imersão Digital -
+Trilha DevOps, em parceria com Alura e FIAP, sob orientação da professora Olivia Ramos Braga.
 
 👤 Autor
 Professora Olivia Ramos Braga
@@ -209,4 +210,5 @@ Estudante de DevOps - Santander Imersão Digital
 www.linkedin.com/in/devviana-amelia
 
 📄 Licença
-Este projeto é para fins educacionais. Sinta-se à vontade para usar e modificar conforme necessário para seus estudos.
+Este projeto é para fins educacionais.
+Sinta-se à vontade para usar e modificar conforme necessário para seus estudos.
