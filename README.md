@@ -14,32 +14,18 @@ Implementação prática de uma rede segmentada com VLANs usando Cisco Packet Tr
 📺 **Demonstração completa do laboratório:**
 [Assista no YouTube](https://www.youtube.com/watch?v=vZcc4f3Smz0)
 
-## 📁 Topologia da Rede
-+--------------------------------------------------+
+# 📁 Topologia da Rede
 
-| Roteador Cisco 2811 |
-
-| Interface: FastEthernet0/0 |
-
-| Subinterfaces: .10, .20, .30 |
-
-+--------------------------+-----------------------+
-
-| (Porta Trunk)
-[FastEthernet0/24]
-|
-
-+--------------------------+-----------------------+
-
-| Switch Cisco 2950-24 |
-
-+--------------------------------------------------+
-
-| | |
-[VLAN 10] [VLAN 20] [VLAN 30]
-(RH) (Engenharia) (Financeiro)
-Portas 1-5 Portas 6-10 Portas 11-15
-
+| Componente | Especificação |
+|------------|---------------|
+| **Roteador** | Cisco 2811 |
+| **Interface do Roteador** | FastEthernet0/0 |
+| **Subinterfaces** | .10, .20, .30 |
+| **Switch** | Cisco 2950-24 |
+| **Porta Trunk** | FastEthernet0/24 |
+| **VLAN 10 (RH)** | Portas 1-5 |
+| **VLAN 20 (Engenharia)** | Portas 6-10 |
+| **VLAN 30 (Financeiro)** | Portas 11-15 |
 
 ## 📦 Arquivos do Projeto
 
